@@ -1,0 +1,361 @@
+@charset "utf-8";
+body {
+	background-color: black;
+}
+svg {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	max-height: 55vw;
+}
+#Figuur_Zwart-2 {
+	fill: #212121;
+	animation-name: zwart-bewegen;
+	animation-duration: 5s;
+	animation-delay: 2s;
+	animation-iteration-count: 3;
+	animation-timing-function: ease alternate;
+}
+#Figuur_Zwart-2:hover {
+	fill: #008b27;
+}
+@keyframes zwart-bewegen {
+	0% {
+		transform: translate(0px, 0px);
+	}
+	50% {
+		transform: translate(-200px, -50px);
+	}
+	100% {
+		transform: translate(0px, 0px);
+	}
+}
+#Figuur_Blauw-2 {
+	fill: #0a009e;
+	animation-name: blauw-bewegen;
+	animation-duration: 5s;
+	animation-delay: 2s;
+	animation-iteration-count: 3;
+	animation-timing-function: ease alternate;
+}
+#Figuur_Blauw-2:hover {
+	fill: #b1014b;
+}
+@keyframes blauw-bewegen {
+	0% {
+		transform: translate(0px, 0px);
+	}
+	50% {
+		transform: translate(120px, -40px);
+	}
+	100% {
+		transform: translate(0px, 0px);
+	}
+}
+#Figuur_L-Roze-2 {
+	fill: #e66cce;
+	animation-name: l-roze-bewegen;
+	animation-duration: 5s;
+	animation-delay: 2s;
+	animation-iteration-count: 3;
+	animation-timing-function: ease alternate;
+}
+#Figuur_L-Roze-2:hover {
+	fill: #fbbc00;
+}
+@keyframes l-roze-bewegen {
+	0% {
+		transform: translateX(0px);
+	}
+	50% {
+		transform: translateX(-75px);
+	}
+	100% {
+		transform: translateX(0px);
+	}
+}
+#Figuur_Rood-2 {
+	fill: #e60100;
+	animation-name: rood-bewegen;
+	animation-duration: 5s;
+	animation-delay: 2s;
+	animation-iteration-count: 3;
+	animation-timing-function: ease alternate;
+}
+#Figuur_Rood-2:hover {
+	fill: #c37702;
+}
+@keyframes rood-bewegen {
+	0% {
+		transform: translateX(0px);
+	}
+	50% {
+		transform: translateX(150px);
+	}
+	100% {
+		transform: translateX(0px);
+	}
+}
+#Figuur_Beige-2 {
+	fill: #f5e0c4;
+	animation-name: beige-bewegen;
+	animation-duration: 5s;
+	animation-delay: 2s;
+	animation-iteration-count: 3;
+	animation-timing-function: ease alternate;
+}
+#Figuur_Beige-2:hover {
+	fill: #05a7e1;
+}
+@keyframes beige-bewegen {
+	0% {
+		transform: translateX(0px);
+	}
+	50% {
+		transform: translateX(75px);
+	}
+	100% {
+		transform: translateX(0px);
+	}
+}
+#Figuur_Geel-2 {
+	fill: #c37702;
+	animation-name: geel-bewegen;
+	animation-duration: 5s;
+	animation-delay: 2s;
+	animation-iteration-count: 3;
+	animation-timing-function: ease alternate;
+}
+#Figuur_Geel-2:hover {
+	fill: #e60100;
+}
+@keyframes geel-bewegen {
+	0% {
+		transform: translateX(0px);
+	}
+	50% {
+		transform: translateX(-150px);
+	}
+	100% {
+		transform: translateX(0px);
+	}
+}
+#Figuur_L-Geel-2 {
+	fill: #fbbc00;
+	animation-name: l-geel-bewegen;
+	animation-duration: 5s;
+	animation-delay: 2s;
+	animation-iteration-count: 3;
+	animation-timing-function: ease alternate;
+}
+#Figuur_L-Geel-2:hover {
+	fill: #e66cce;
+}
+@keyframes l-geel-bewegen {
+	0% {
+		transform: translateX(0px);
+	}
+	50% {
+		transform: translateX(-50px);
+	}
+	100% {
+		transform: translateX(0px);
+	}
+}
+#Figuur_Groen-2 {
+	fill: #008b27;
+	animation-name: groen-bewegen;
+	animation-duration: 5s;
+	animation-delay: 2s;
+	animation-iteration-count: 3;
+	animation-timing-function: ease alternate;
+}
+#Figuur_Groen-2:hover {
+	fill: #212121;
+}
+@keyframes groen-bewegen {
+	0% {
+		transform: translate(0px, 0px);
+	}
+	50% {
+		transform: translate(200px, 50px);
+	}
+	100% {
+		transform: translate(0px, 0px);
+	}
+}
+#Figuur_Roze-2 {
+	fill: #b1014b;
+	animation-name: roze-bewegen;
+	animation-duration: 5s;
+	animation-delay: 2s;
+	animation-iteration-count: 3;
+	animation-timing-function: ease alternate;
+}
+#Figuur_Roze-2:hover {
+	fill: #0a009e;
+}
+@keyframes roze-bewegen {
+	0% {
+		transform: translate(0px, 0px);
+	}
+	50% {
+		transform: translate(-120px, 40px);
+	}
+	100% {
+		transform: translate(0px, 0px);
+	}
+}
+#Figuur_Bruin-2 {
+	fill: #301a11;
+	animation-name: bruin-bewegen;
+	animation-duration: 5s;
+	animation-delay: 2s;
+	animation-iteration-count: 3;
+	animation-timing-function: ease alternate;
+}
+#Figuur_Bruin-2:hover {
+	fill: #9a9094;
+}
+@keyframes bruin-bewegen {
+	0% {
+		transform: translate(0px);
+	}
+	50% {
+		transform: translate(300px, 75px);
+	}
+	100% {
+		transform: translate(0px);
+	}
+}
+#Figuur_L-Blauw-2 {
+	fill: #05a7e1;
+	animation-name: l-blauw-bewegen;
+	animation-duration: 5s;
+	animation-delay: 2s;
+	animation-iteration-count: 3;
+	animation-timing-function: ease alternate;
+}
+#Figuur_L-Blauw-2:hover {
+	fill: #f5e0c4;
+}
+@keyframes l-blauw-bewegen {
+	0% {
+		transform: translateX(0px);
+	}
+	50% {
+		transform: translateX(100px);
+	}
+	100% {
+		transform: translateX(0px);
+	}
+}
+#Figuur_Grijs-2 {
+	fill: #9a9094;
+	animation-name: grijs-bewegen;
+	animation-duration: 5s;
+	animation-delay: 2s;
+	animation-iteration-count: 3;
+	animation-timing-function: ease alternate;
+}
+#Figuur_Grijs-2:hover {
+	fill: #301a11;
+}
+@keyframes grijs-bewegen {
+	0% {
+		transform: translate(0px, 0px);
+	}
+	50% {
+		transform: translate(-300px, -75px);
+	}
+	100% {
+		transform: translate(0px, 0px);
+	}
+}
+#E1_Stephen {
+	x: 142;
+	y: 117;
+}
+#E1_Stephen_2 {
+	x: 253;
+	y: 117;
+}
+#O1_Only {
+	cx: 145;
+	cy: 300;
+}
+#L_Only-2 {
+	x: 210;
+	y: 278;
+}
+#D_Dancing {
+	animation-name: rotate;
+	animation-duration: 1s;
+	animation-iteration-count: 3;
+	animation-delay: 18s;
+	animation-timing-function: linear;
+	transform-origin: center;
+	transform-box: fill-box;
+}
+@keyframes rotate {
+	0% {
+		transform: rotateZ(0deg);
+	}
+	100% {
+		transform: rotateZ(360deg);
+	}
+}
+#A_Dancing-2 {
+	animation-name: rotate;
+	animation-duration: 1.4s;
+	animation-iteration-count: 3;
+	animation-delay: 18s;
+	animation-timing-function: linear;
+	transform-origin: center;
+	transform-box: fill-box;
+}
+#N_Dancing-2 {
+	animation-name: rotate;
+	animation-duration: 1.6s;
+	animation-iteration-count: 3;
+	animation-delay: 18s;
+	animation-timing-function: linear;
+	transform-origin: center;
+	transform-box: fill-box;
+}
+#C_Dancing-2 {
+	animation-name: rotate;
+	animation-duration: 1.8s;
+	animation-iteration-count: 3;
+	animation-delay: 18s;
+	animation-timing-function: linear;
+	transform-origin: center;
+	transform-box: fill-box;
+}
+#I_Dancing {
+	animation-name: rotate;
+	animation-duration: 2s;
+	animation-iteration-count: 3;
+	animation-delay: 18s;
+	animation-timing-function: linear;
+	transform-origin: center;
+	transform-box: fill-box;
+}
+#N_Dancing_2-2 {
+	animation-name: rotate;
+	animation-duration: 2.2s;
+	animation-iteration-count: 3;
+	animation-delay: 18s;
+	animation-timing-function: linear;
+	transform-origin: center;
+	transform-box: fill-box;
+}
+#G_Dancing-2 {
+	animation-name: rotate;
+	animation-duration: 2.4s;
+	animation-iteration-count: 3;
+	animation-delay: 18s;
+	animation-timing-function: linear;
+	transform-origin: center;
+	transform-box: fill-box;
+}
