@@ -1,4 +1,7 @@
 <h1>Webanimatie | Kunstwerk</h1>
+
+<em>Note: zie in mijn repository de volledige versies van deze opdracht.</em>
+
 <h3>Inleiding</h3>
 <p>Tijdens deze opdracht heb ik voor het eerst kennis gemaakt met HTML, CSS en Javascript. Allereerst koos ik een kunstwerk die ik vervolgens nagemaakt heb in een webbrowser. Het doel van deze opdracht was om interactie toe te voegen aan het kunstwerk en om te experimenteren CSS animaties en transities. Wat eerst een statisch kunstwerk was, is nu een dynamisch geheel.</p>
 
@@ -20,11 +23,12 @@
 <p>Ook wilde ik interactie toevoegen met het toetsenbord. Ik maakte een knop onder het kunstwerk met de tekst 'press spacebar to dance'. Wanneer je nu op de spatiebalk klikt beginnen de letters als het ware te dansen. Ik heb ervoor gekozen om alleen de woorden 'Only Dancing' te laten bewegen vanwege de betekenis van de woorden. Ik heb letters laten draaien met Transform: rotate. Daarnaast wilde ik ook nog een andere beweging toevoegen. Hiervoor heb ik gekeken in de CSS Almanac en kwam ik bij Transform: skew.<p>
 
 <h3>Experiment</h3>
-Naast deze properties heb ik ook gekeken naar andere properties die ik nog niet kende. Zo kwam ik bijvoorbeeld bij de verschillende filters die je kunt gebruiken. Ik wilde gebruik maken van de filter 'invert' om kleuren om te draaien. Dit vond ik passen bij het kunstwerk omdat kleur sterk aanwezig is in het kunstwerk. Ik had de code zo geschreven dat de kleuren zouden omdraaien als het scherm zo klein werd als een mobiel scherm. Later heb ik dit effect toch weggehaald omdat het mij helaas niet lukte om de zwarte achtergrond ook naar wit te veranderen. Nu waren de letters niet meer leesbaar en dat was ook niet de bedoeling. Zie onderstaande screenshot.
+<p>Naast deze properties heb ik ook gekeken naar andere properties die ik nog niet kende. Zo kwam ik bijvoorbeeld bij de verschillende filters die je kunt gebruiken. Ik wilde gebruik maken van de filter 'invert' om kleuren om te draaien. Dit vond ik passen bij het kunstwerk omdat kleur sterk aanwezig is in het kunstwerk. Ik had de code zo geschreven dat de kleuren zouden omdraaien als het scherm zo klein werd als een mobiel scherm. Later heb ik dit effect toch weggehaald omdat het mij helaas niet lukte om de zwarte achtergrond ook naar wit te veranderen. Nu waren de letters niet meer leesbaar en dat was ook niet de bedoeling. Zie onderstaande screenshot.</p>
+<img width="250" height="400" src="Invert.png">
 
 
 
 <h3>Bronnenlijst</h3>
-https://designarchives.aiga.org/#/entries/%2Bcollections%3A%2250%20Books%20%7C%2050%20Covers%20of%202017%22/_/detail/relevance/asc/83/7/21941/stephen-ormandy-only-dancing/1<br>
+https://designarchives.aiga.org/#/entries/%2Bcollections%3A%2250%20Books%20%7C%2050%20Covers%20of%202017%22/_/detail/relevance/asc/83/7/21941/stephen-ormandy-only-dancing/1
 https://css-tricks.com/almanac/<br>
 https://www.youtube.com/watch?v=gWai7fYp9PY<br>
