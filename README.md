@@ -29,6 +29,7 @@
 
 
 <h3>Bronnenlijst</h3>
-https://designarchives.aiga.org/#/entries/%2Bcollections%3A%2250%20Books%20%7C%2050%20Covers%20of%202017%22/_/detail/relevance/asc/83/7/21941/stephen-ormandy-only-dancing/1
+https://designarchives.aiga.org/#/entries/%2Bcollections%3A%2250%20Books%20%7C%2050%20Covers%20of%202017%22/_/detail/relevance/asc/83/7/21941/stephen-ormandy-only-dancing/1<br>
 https://css-tricks.com/almanac/<br>
 https://www.youtube.com/watch?v=gWai7fYp9PY<br>
+https://www.w3schools.com/cssref/css3_pr_filter.asp
