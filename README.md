@@ -17,7 +17,8 @@
 <h3>Iteratie 1</h3>
 <p>Allereerst ben ik begonnen met het namaken van het kunstwerk in Illustrator. Dit bestand heb ik vervolgens geëxporteerd als SVG en in mijn html geplaatst. Vervolgens heb ik veel tijd gestoken in het ordenen van de SVG, kijken hoe dit werkt en het positioneren van de SVG op het scherm. Toen alles stond zoals ik het wilde hebben, ben ik gaan experimenteren met animaties in CSS. Daarbij maakte ik gebruik van keyframes. Hierbij heb ik verschillende bronnen gebruikt (zie bronnenlijst).</p>
 <img "375" height="400" src="Screen-iteratie1.png">
-
+<p>Naast het animeren met keyframes heb ik mij ook verdiept in pseudo classes. Ik vond de :hover het meest geschikt voor mijn kunstwerk omdat je hiermee op een interactieve manier kleuren kunt laten veranderen. Dit voegt de speelsheid toe die ik graag wilde meegeven aan mijn kunstwerk omdat je de kleuren als het ware kunt laten 'dansen'.</p>
+ 
 <h3>Iteratie 2</h3>
 <p>Tijdens de eerste iteratie heb ik mij vooral gefocust op CSS animatie. Deze animatie wilde ik nu interactief maken door middel van Javascript. Waar eerst de verschillende vlakken automatisch verplaatsten, moet je dit nu met een klik zelf activeren. Wanneer je klikt op een vlak verplaatst hij over de Y-as (soms ook over de X-as). Het kunstwerk wordt als het ware uit elkaar getrokken en je kunt dit vervolgens als een soort puzzel weer in elkaar klikken.</p>
 <p>Ook wilde ik interactie toevoegen met het toetsenbord. Ik maakte een knop onder het kunstwerk met de tekst 'press spacebar to dance'. Wanneer je nu op de spatiebalk klikt beginnen de letters als het ware te dansen. Ik heb ervoor gekozen om alleen de woorden 'Only Dancing' te laten bewegen vanwege de betekenis van de woorden. Ik heb letters laten draaien met Transform: rotate. Daarnaast wilde ik ook nog een andere beweging toevoegen. Hiervoor heb ik gekeken in de CSS Almanac en kwam ik bij Transform: skew.<p>
@@ -27,8 +28,9 @@
 <img width="250" height="400" src="Invert.png">
 
 <h3>Responsive<h3>
- <p>Zoals je op bovenstaande afbeelding kunt zien, is het kunstwerk grotendeels responsive. Dit was voor mij een grote uitdaging om voor elkaar te krijgen. Wat mij opvalt is dat er heel veel verschillende manieren zijn om je elementen te positioneren. De ene property werkt wel in combinatie met de ander en de andere property werkt niet in combinatie met een andere. Dit vond ik erg lastig. Uiteindelijk heb ik het met de volgende code voor elkaar gekregen om de elementen in het midden uit te lijnen en kleiner te laten worden wanneer het scherm ook kleiner wordt.
-
+ <p>Zoals je op bovenstaande afbeelding kunt zien, is het kunstwerk grotendeels responsive. Dit was voor mij een grote uitdaging om voor elkaar te krijgen. Wat mij opvalt is dat er heel veel verschillende manieren zijn om je elementen te positioneren. De ene property werkt wel in combinatie met de ander en de andere property werkt niet in combinatie met een andere. Dit vond ik erg lastig. Uiteindelijk heb ik het met de volgende code voor elkaar gekregen om de elementen in het midden uit te lijnen en kleiner te laten worden wanneer het scherm ook kleiner wordt.</p>
+<img width="250" height="200" src="Responsive.png">
+<p>Waarschijnlijk kan dit op een betere manier en hierin zou ik mij de volgende keer meer in willen verdiepen. Zoals je ziet, is de knop wel responsive maar de tekst erin niet helemaal. Dat vind ik jammer en hierin zou ik dus nog een slag kunnen slaan.</p>
 
 <h3>Resultaat</h3>
 <p>Klik op de link om het resultaat in de webbrowser te bekijken: <br>https://misscage.github.io/WebAnimation/Versie%205.0/index.html</p>
