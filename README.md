@@ -6,7 +6,7 @@
 <p>Tijdens deze opdracht heb ik voor het eerst kennis gemaakt met HTML, CSS en Javascript. Allereerst koos ik een kunstwerk die ik vervolgens nagemaakt heb in een webbrowser. Het doel van deze opdracht was om interactie toe te voegen aan het kunstwerk en om te experimenteren CSS animaties en transities. Wat eerst een statisch kunstwerk was, is nu een dynamisch geheel.</p>
 
 <h3>Gekozen Kunstwerk</h3>
-<p>Het kunstwerk dat ik heb gekozen is een boekcover van het boek "Stephen Ormandy, Only Dancing". Stephen Ormandy is een Australische ontwerper en kunstenaar met een hele authentieke stijl. Zijn stijl is gelijk te herkennen aan de combinatie van meerdere kleurrijke organische vormen. Dit boek is geen werk van hem zelf, maar van Mark Gowing. In dit boek onderzoekt hij de stijl van Stephen. Het is de eerste publicatie die gewijd is aan het onderzoeken van Ormandy's levendige olieverfschilderijen en de speelsheid die hij toevoegt bij alles wat hij doet.</p>
+<p>Het kunstwerk dat ik heb gekozen is een boekcover van het boek "Stephen Ormandy, Only Dancing". Stephen Ormandy is een Australische ontwerper en kunstenaar met een hele authentieke stijl. Zijn stijl is gelijk te herkennen aan de combinatie van meerdere kleurrijke organische vormen. Dit boek is geen werk van hem zelf, maar van Mark Gowing. In dit boek onderzoekt hij de stijl van Stephen. Het is de eerste publicatie die gewijd is aan het onderzoeken van Ormandy's levendige olieverfschilderijen en de speelsheid die hij toevoegt bij alles wat hij doet. Deze speelsheid wilde ik ook graag meegeven in mijn animaties.</p>
 <figure>
  <img width="375" height="400" src="Boekcover-Only-Dancing.jpg">
  <figcaption>Bron: https://formisteditions.co/products/stephen-ormandy-only-dancing</figcaption>
@@ -29,6 +29,9 @@
 <h3>Resultaat</h3>
 <p>Klik op de link om het resultaat in de webbrowser te bekijken: <br>https://misscage.github.io/WebAnimation/Versie%205.0/index.html</p>
 <img src="Resultaat.png">
+
+<h3>Reflectie</h3>
+<p>Over het algemeen ben ik trots op wat ik heb kunnen neerzetten zonder enige ervaring met HTML, CSS en Javascript. Door hier veel tijd en energie in te hebben gestoken, kan ik nu zeggen dat ik de basis begrijp. Ik weet dat er heel veel mogelijk is en waar ik informatie vandaan kan halen om dit uit te kunnen voeren. Wat ik lastig vond en waar ik nog op wil verbeteren is positionering. Ik heb gemerkt dat er heel veel 'regeltjes' en manieren zijn om elementen te positioneren. Wanneer je dit niet weet, is het lastig om erachter te komen waarom iets niet werkt. Daarbij wil ik ook verbeteren op het gebied van het responsive maken van mijn ontwerpen.</p>
 
 <h3>Bronnenlijst</h3>
 https://designarchives.aiga.org/#/entries/%2Bcollections%3A%2250%20Books%20%7C%2050%20Covers%20of%202017%22/_/detail/relevance/asc/83/7/21941/stephen-ormandy-only-dancing/1<br>
