@@ -32,6 +32,9 @@
 <img width="250" height="200" src="Responsive.png">
 <p>Waarschijnlijk kan dit op een betere manier en hierin zou ik mij de volgende keer meer in willen verdiepen. Zoals je ziet, is de knop wel responsive maar de tekst erin niet helemaal. Dat vind ik jammer en hierin zou ik dus nog een slag kunnen slaan.</p>
 
+<h3>Mobiele functies</h3>
+<p>Wanneer je het kunstwerk op een telefoon opent zijn de meeste functies nog werkbaar. Zo kun je op de verschillende vlakken 'klikken' en verschuiven deze nog steeds uit elkaar en verandert de kleur. Je kunt natuurlijk nu niet de spatiebalk gebruiken om de letters te laten dansen. Wat ik nog had willen toevoegen is deze knop ook klikbaar maken, zodat ook de letters op de mobiele versie kunnen dansen. Misschien zou zelfs de tekst wel kunnen veranderen in de knop. Hier heb ik helaas geen tijd meer voor gehad.</p>
+
 <h3>Resultaat</h3>
 <p>Klik op de link om het resultaat in de webbrowser te bekijken: <br>https://misscage.github.io/WebAnimation/Versie%205.0/index.html</p>
 <img src="Resultaat.png">
