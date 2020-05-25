@@ -2,7 +2,6 @@
 
 <em>Note: zie in mijn repository de volledige versies van deze opdracht.</em>
 
-<h3>Inleiding</h3>
 <p>Tijdens deze opdracht heb ik voor het eerst kennis gemaakt met HTML, CSS en Javascript. Allereerst koos ik een kunstwerk die ik vervolgens nagemaakt heb in een webbrowser. Het doel van deze opdracht was om interactie toe te voegen aan het kunstwerk en om te experimenteren CSS animaties en transities. Wat eerst een statisch kunstwerk was, is nu een dynamisch geheel.</p>
 
 <h3>Gekozen Kunstwerk</h3>
