@@ -36,6 +36,7 @@
 
 <h3>Reflectie</h3>
 <p>Over het algemeen ben ik trots op wat ik heb kunnen neerzetten zonder enige ervaring met HTML, CSS en Javascript. Door hier veel tijd en energie in te hebben gestoken, kan ik nu zeggen dat ik de basis begrijp. Ik weet dat er heel veel mogelijk is en waar ik informatie vandaan kan halen om dit uit te kunnen voeren. Wat ik lastig vond en waar ik nog op wil verbeteren is positionering. Ik heb gemerkt dat er heel veel 'regeltjes' en manieren zijn om elementen te positioneren. Wanneer je dit niet weet, is het lastig om erachter te komen waarom iets niet werkt. Daarbij wil ik ook verbeteren op het gebied van het responsive maken van mijn ontwerpen.</p>
+<p>Tijdens deze opdracht heb ik veel dingen uitgeprobeerd en later ook weer weggehaald omdat het toch niet werkte voor mijn kunstwerk. Dit maakt deze opdracht voor mij een geslaagd experiment aangezien ik nu weet dat eigenlijk (bijna) alles mogelijk is met HTML, CSS en Javascript. Ik weet nu veel meer over coderen dan dat ik van te voren gehoopt had!</p>
 
 <h3>Bronnenlijst</h3>
 https://designarchives.aiga.org/#/entries/%2Bcollections%3A%2250%20Books%20%7C%2050%20Covers%20of%202017%22/_/detail/relevance/asc/83/7/21941/stephen-ormandy-only-dancing/1<br>
