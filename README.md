@@ -6,11 +6,7 @@
 
 <h3>Gekozen Kunstwerk</h3>
 <p>Het kunstwerk dat ik heb gekozen is een boekcover van het boek "Stephen Ormandy, Only Dancing". Stephen Ormandy is een Australische ontwerper en kunstenaar met een hele authentieke stijl. Zijn stijl is gelijk te herkennen aan de combinatie van meerdere kleurrijke organische vormen. Dit boek is geen werk van hem zelf, maar van Mark Gowing. In dit boek onderzoekt hij de stijl van Stephen. Het is de eerste publicatie die gewijd is aan het onderzoeken van Ormandy's levendige olieverfschilderijen en de speelsheid die hij toevoegt bij alles wat hij doet. Deze speelsheid wilde ik ook graag meegeven in mijn animaties.</p>
-<figure>
- <img width="375" height="400" src="Boekcover-Only-Dancing.jpg">
- <figcaption>Bron: https://formisteditions.co/products/stephen-ormandy-only-dancing</figcaption>
- </figure>
- <br>
+<img width="375" height="400" src="Boekcover-Only-Dancing.jpg">
 <p>Dit kunstwerk heb ik gekozen omdat de vele verschillende kleuren mij aanspraken. Ik zag gelijk dingen die ik ermee kon doen. Daarnaast ga ik hiermee uit mijn comfort-zone omdat ik nog nooit met zo'n stijl gewerkt heb. Tijdens het zoeken naar een kunstwerk dacht ik ook praktisch na. Het is de eerste keer dat ik aan de slag ga met HTML, CSS en Javascript. Ik wilde dus dat het kunstwerk ook niet te ingewikkeld in elkaar stak.
 
 <h3>Iteratie 1</h3>
@@ -43,6 +39,7 @@
 
 <h3>Bronnenlijst</h3>
 https://designarchives.aiga.org/#/entries/%2Bcollections%3A%2250%20Books%20%7C%2050%20Covers%20of%202017%22/_/detail/relevance/asc/83/7/21941/stephen-ormandy-only-dancing/1<br>
+https://formisteditions.co/products/stephen-ormandy-only-dancing<br>
 https://css-tricks.com/almanac/<br>
 https://www.youtube.com/watch?v=gWai7fYp9PY<br>
 https://www.w3schools.com/cssref/css3_pr_filter.asp<br>
